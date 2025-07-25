@@ -71,7 +71,7 @@ chatbot_project/
 
 - Python 3.7  
 - Git  
-- LLM Model: [Mistral-7B-Instruct-v0.3-Q4](https://huggingface.co/jfer1015/Mistral-7B-Instruct-v0.3-Q4_K_M-GGUF). After downloading the model, please save it in the empty 'models' folder.
+- LLM Model: [Mistral-7B-Instruct-v0.3-Q4](https://huggingface.co/jfer1015/Mistral-7B-Instruct-v0.3-Q4_K_M-GGUF). After downloading the model, please save it in a new folder called 'models'.
 - Docker (optional for deployment)  
 - API Keys for:
   - [Proxycurl](https://proxycurl.com)
