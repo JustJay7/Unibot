@@ -1,6 +1,6 @@
 # UniBot – AI-Powered Academic Chatbot for Bennett University
 
-UniBot is an intelligent, NLP-powered chatbot designed to help students and faculty access academic information like professor cabin locations, specializations, and real-time class schedules using natural, conversational language. Built with Python and Flask, UniBot integrates multiple machine learning and web scraping techniques to provide contextual, real-time responses — all while being fully containerized for scalable deployment.
+UniBot is an intelligent, NLP-powered chatbot designed to help students and faculty access academic information like professor cabin locations, specializations, and real-time class schedules using natural, conversational language. Built with Python and Flask, UniBot integrates multiple machine learning and web scraping techniques to provide contextual, real-time responses - all while being fully containerized for scalable deployment.
 
 ---
 
@@ -101,7 +101,7 @@ docker run -d -p 5000:5000 unibot-chatbot
 ---
 
 ## Login Credentials
-### Only email IDs that end with @bennett.edu.in can access the chatbot. Therefore, please use one of the email IDs from the professor or studen login deatils table. 
+### Only email IDs that end with @bennett.edu.in can access the chatbot. Therefore, please use one of the email IDs from the professor or student login deatils table. 
 
 ---
 
